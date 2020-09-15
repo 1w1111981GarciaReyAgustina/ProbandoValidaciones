@@ -1,0 +1,10 @@
+C:\Users\Admins\source\repos\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\Admins\source\repos\Validaciones\bin\Debug\Validaciones.exe
+C:\Users\Admins\source\repos\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.frmDatos.resources
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\Admins\source\repos\Validaciones\obj\Debug\Validaciones.pdb
